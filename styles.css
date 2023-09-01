@@ -29,7 +29,7 @@ body {
   background-color: var(--botao);
   border-radius: 5px;
   padding: 1em;
-  color: white;
+  color: var(--branco-principal);
 text-decoration: none;
 display:block
 }
