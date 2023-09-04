@@ -18,11 +18,11 @@ body {
 .principal {
   background-image: url("https://psxbrasil.com.br/wp-content/uploads/2020/11/DOOM_6_4K.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
 }
 
 .container {
-  height: vh;
+  height: 100vh;
   display: grid;
   grid-template-columns: 50% 50%;
 }
