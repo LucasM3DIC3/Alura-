@@ -36,6 +36,12 @@ text-decoration: none;
 display:block
 }
 
+strong{
+color:#ff0000;
+font-weight: bold;
+}
+
+
 img {
   width: 73%;
 }
