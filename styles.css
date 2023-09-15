@@ -80,6 +80,7 @@ color: var(--branco-principal)
 }
 
 .secundario {
+  align-items: center;
   text-align: center;
   margin: 0 10em;
 }
