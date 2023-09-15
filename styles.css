@@ -79,7 +79,7 @@ color: var(--branco-principal)
   margin: 1em;
 }
 
-.container__secundario {
+.secundario {
   text-align: center;
   margin: 0 10em;
 }
