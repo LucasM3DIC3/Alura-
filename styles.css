@@ -88,14 +88,14 @@ color: var(--branco-principal)
 .secundario__imagem {
   width: 80%;
 }
-.descriçao titulo{
+.descriça__titulo{
   font-weight: 700;
   font-size: 48px;
   background-color: #FFFFFF;
-  margin;0,1em;
+  margin: 0 1em;
 
 }
-.descriçao texto{
+.descriça__titulo{
   color: #C0C0C0;
   line: height 125px;
 }
