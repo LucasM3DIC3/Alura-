@@ -113,3 +113,12 @@ color: var(--branco-principal)
   color: var(--branco-principal);
 text-decoration: none;
 } 
+
+.dispositivos__lista {
+  display: flex;
+  justify-content: center;
+}
+
+.dispositivos {
+  text-align: center;
+}
