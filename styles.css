@@ -122,3 +122,11 @@ text-decoration: none;
 .dispositivos {
   text-align: center;
 }
+
+.dispositivos__titulo {
+  color:#ff00ff
+}
+
+.lista__item {
+  color:#ff00ff
+}
