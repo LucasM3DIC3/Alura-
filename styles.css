@@ -140,6 +140,5 @@ text-decoration: none;
 }
 
 .logofooter {
- display: center;
- vertical-align:top;
+ text-align: centera;
 }
