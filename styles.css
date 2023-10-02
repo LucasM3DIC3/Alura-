@@ -140,6 +140,5 @@ text-decoration: none;
 }
 
 .logofooter {
-  display: flex;
-  justify-content: center;
+ display: center;
 }
