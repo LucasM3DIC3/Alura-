@@ -142,3 +142,8 @@ text-decoration: none;
 .rodape {
  text-align: center;
 }
+
+.textorodape {
+  display: flex;
+  justify-content: baseline;
+}
