@@ -138,3 +138,8 @@ text-decoration: none;
   display: flex;
   justify-content: space-between;
 }
+
+.logofooter {
+  display: flex;
+  justify-content: center;
+}
