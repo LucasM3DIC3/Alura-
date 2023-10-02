@@ -135,5 +135,6 @@ text-decoration: none;
 }
 
 .lista__link {
-  justify-content: center;
+  display: flex;
+  justify-content: space-between;
 }
