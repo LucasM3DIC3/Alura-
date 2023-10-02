@@ -134,7 +134,7 @@ text-decoration: none;
   color:#ff00ff
 }
 
-.rodape__listaa {
+.rodape__lista {
   display: flex;
   justify-content: space-between;
 }
